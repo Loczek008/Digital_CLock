@@ -1,4 +1,4 @@
-cd C:\Users\Dawid\PycharmProjects\ciekawostki\Digital_Clock
+cd 
 python Clock.py
 exit
 
